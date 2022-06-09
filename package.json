@@ -1,5 +1,5 @@
 {
-  "name": "sicp",
+  "name": "sicp-exercises",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/djclayton21/sicp/issues"
   },
-  "homepage": "https://github.com/djclayton21/sicp#readme"
+  "homepage": "https://github.com/djclayton21/sicp#readme",
+  "dependencies": {
+    "sicp": "^1.0.30"
+  }
 }
